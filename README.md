@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Clinton-Nmereole
-- 👀 I’m interested in Python, machine learning, finance and web development.
-- 🌱 I’m currently learning AI and machine learning.
-- 💞️ I’m looking to collaborate on mostly Data Science projects and projects that use data in the finance industry.
+- 👋 Hi, I am @Clinton-Nmereole
+- 👀 I am a Software Engineer interested in everything Computer Science and Mathematics.
+- 🌱 I am currently learning: Astro js, Nim, Yew, and Crystal
+- 💞️ I am particularly interested in the finance industry and looking to collaborate on projects in this sector.
 - 📫 How to reach me:
    Email: clintonnmereole@gmail.com
-   
+   Linkedin: https://www.linkedin.com/in/chinedum-nmereole/
 
 <!---
 Clinton-Nmereole/Clinton-Nmereole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
