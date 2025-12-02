@@ -1,10 +1,9 @@
 - 👋 Hi, I am @Clinton-Nmereole
 - 👀 I am a Software Engineer interested in everything Computer Science and Mathematics.
-- 🌱 I am currently learning: Zig(systems programming language), and NuxtJS(web framework for Vue.js).
+- 🌱 I am currently learning: Systems Programming (specifically Zig and Odin).
 - 💞️ I am particularly interested in the finance industry and looking to collaborate on projects in this sector.
 - 📫 How to reach me:
    Email: clintonnmereole@gmail.com
-   Alt Email: ChinedumNmereole@skiff.com
    Linkedin: https://www.linkedin.com/in/chinedum-nmereole/
 
 <!---
